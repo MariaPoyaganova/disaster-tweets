@@ -21,3 +21,4 @@ The repository contains 2 notebooks:
 The notebooks include comments in Russian. 
 
 The data can be found on the page of the competition (https://www.kaggle.com/c/nlp-getting-started/data) 
+
